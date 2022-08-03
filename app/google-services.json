@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515750767423",
+    "project_id": "bribe-app",
+    "storage_bucket": "bribe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515750767423:android:6ede38968a3804d24e018a",
+        "android_client_info": {
+          "package_name": "com.example.jaimouillersabarbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515750767423-ikt2rdjjdaodi22f500j4mt78ssr2d16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtbKEPsYFbaS_hKI_ZTAkBcGIC6ux9Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515750767423-ikt2rdjjdaodi22f500j4mt78ssr2d16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
